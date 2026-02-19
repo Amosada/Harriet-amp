@@ -33,12 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Good morning, my dear friend. 🌅
-                   This cold day reminded me how warm your presence is in my life. 
-                   I hope today wraps you in peace, fills your heart with quiet joy, 
-            and reminds you how special you truly are. May every step you take today lead you closer to your dreams,
-            and may you carry a gentle smile knowing someone out here is wishing you the very best.
-            Stay warm, stay safe, and don’t forget you make the world a little brighter just by being in it. 🤍 🌹", // The big question!
+            text: "Good morning, my dear friend. 🌅This cold day reminded me how warm your presence is in my life. I hope today wraps you in peace, fills your heart with quiet joy, and reminds you how special you truly are. May every step you take today lead you closer to your dreams, and may you carry a gentle smile knowing someone out here is wishing you the very best. Stay warm, stay safe, and don’t forget you make the world a little brighter just by being in it. 🤍 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
